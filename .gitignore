@@ -1,0 +1,4 @@
+# Project exclude paths
+/ippo-gettingstarted/.gradle/
+/ippo-gettingstarted/build/
+/ippo-gettingstarted/build/classes/java/main/
